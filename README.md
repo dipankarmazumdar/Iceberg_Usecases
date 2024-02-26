@@ -4,7 +4,7 @@ This repository contains a collection of Jupyter notebooks and Python code demon
 
 ## Contents
 
-- **Spark_iceberg.ipynb**: Demonstrates how to perform various Data Definition Language (DDL), Data Manipulation Language (DML), and read operations on Apache Iceberg tables using Apache Spark.
+- **`Spark_iceberg.ipynb**`: Demonstrates how to perform various Data Definition Language (DDL), Data Manipulation Language (DML), and read operations on Apache Iceberg tables using Apache Spark.
 
 - **CDC_iceberg.ipynb**: Showcases how to implement Change Data Capture (CDC) from Iceberg tables to downstream applications. 
 
