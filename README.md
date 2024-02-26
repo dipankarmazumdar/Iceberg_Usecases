@@ -4,17 +4,17 @@ This repository contains a collection of Jupyter notebooks and Python code demon
 
 ## Contents
 
-- **`Spark_iceberg.ipynb**`: Demonstrates how to perform various Data Definition Language (DDL), Data Manipulation Language (DML), and read operations on Apache Iceberg tables using Apache Spark.
+- `Spark_iceberg.ipynb`: Demonstrates how to perform various Data Definition Language (DDL), Data Manipulation Language (DML), and read operations on Apache Iceberg tables using Apache Spark.
 
-- **CDC_iceberg.ipynb**: Showcases how to implement Change Data Capture (CDC) from Iceberg tables to downstream applications. 
+- `CDC_iceberg.ipynb`: Showcases how to implement Change Data Capture (CDC) from Iceberg tables to downstream applications. 
 
-- **ML_inference.ipynb**: Explains how to build Machine Learning inference pipelines using Apache Iceberg and Spark. 
+- `ML_inference.ipynb`: Explains how to build Machine Learning inference pipelines using Apache Iceberg and Spark. 
 
-- **SCD2_iceberg.ipynb**: Provides a method to implement Slowly Changing Dimensions Type 2 (SCD2) with Apache Iceberg and Spark. 
+- `SCD2_iceberg.ipynb`: Provides a method to implement Slowly Changing Dimensions Type 2 (SCD2) with Apache Iceberg and Spark. 
 
-- **WriteAuditPublish.ipynb**: Illustrates how to implement data quality using the write audit publish pattern in Apache Iceberg.
+- `WriteAuditPublish.ipynb`: Illustrates how to implement data quality using the write audit publish pattern in Apache Iceberg.
 
-- **ProducerKinesis.py**: A Python script that acts as a producer, reading streaming data from the OpenWeatherData API and storing it in an Amazon Kinesis data stream. 
+- `ProducerKinesis.py`: A Python script that acts as a producer, reading streaming data from the OpenWeatherData API and storing it in an Amazon Kinesis data stream. 
 
 ## Getting Started
 
